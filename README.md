@@ -1,10 +1,13 @@
 # wink — the Wink Platform CLI
 
+![status: work in progress](https://img.shields.io/badge/status-work%20in%20progress-orange)
+
+> [!WARNING]
+> **Work in progress: not ready for use.** There is no release yet, and none of the commands on this page exist. This README describes the planned design, and every detail of it may change before v1.0. Please don't build on it yet. Progress is tracked in the [v1 epic (#27)](https://github.com/wink-travel/cli/issues/27).
+
 `wink` is the command-line interface for the [Wink Platform](https://wink.travel). With it you can sign in, choose the account you work in, and call any platform operation from a terminal, a CI job, or an AI agent.
 
 It works the way `gh`, `stripe` and `gcloud` do. You log in once and select an account, then run commands that return JSON you can pipe, filter, or hand to an agent.
-
-> **Status: pre-alpha.** Nothing on this page works yet. It describes the planned design. Progress is tracked in the [v1 epic (#27)](https://github.com/wink-travel/cli/issues/27) and its milestones.
 
 ## Why a CLI when there is an MCP server?
 

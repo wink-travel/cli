@@ -19,7 +19,7 @@ The platform already offers an MCP server with about 500 tools spread over 16 to
 
 ```bash
 # install (once releases exist)
-brew install wink-travel/tap/wink
+brew install wink-travel/tap/wink-cli
 go install github.com/wink-travel/cli/cmd/wink@latest
 
 # sign in with the OAuth 2.0 device flow: opens your browser, you approve, done

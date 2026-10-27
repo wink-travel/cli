@@ -1,0 +1,6 @@
+# Every change needs a review from one of these owners. GitHub won't count the
+# PR author's own approval, so at least one other person must review each PR.
+* @bjornharvold @flowmode @YannWink
+
+# Changes to repository governance and CI need a maintainer.
+/.github/ @bjornharvold

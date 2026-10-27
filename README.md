@@ -4,7 +4,7 @@
 
 It works the way `gh`, `stripe` and `gcloud` do. You log in once and select an account, then run commands that return JSON you can pipe, filter, or hand to an agent.
 
-> **Status: pre-alpha.** Nothing on this page works yet. It describes the planned design. Progress is tracked in the [v1 epic](https://github.com/wink-travel/cli/issues?q=is%3Aissue+label%3Aepic) and its milestones.
+> **Status: pre-alpha.** Nothing on this page works yet. It describes the planned design. Progress is tracked in the [v1 epic (#27)](https://github.com/wink-travel/cli/issues/27) and its milestones.
 
 ## Why a CLI when there is an MCP server?
 
